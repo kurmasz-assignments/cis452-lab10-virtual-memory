@@ -150,7 +150,7 @@ int main()
   19. Describe what happens, and explain why.
   
     
-### Examine the effect of memory access patterns:
+### Examine the effect of memory access patterns:
 
   * Consider what happens if teh memory access statement is changed to the following:
     ```c
@@ -165,6 +165,7 @@ int main()
 
   22. Complete the table below:
 
+<!-- only needed for preview on VS Code
 <style>
 table { border-collapse: collapse; }
 td { border: 1px solid #ccc; padding: 4px;  }
@@ -172,6 +173,7 @@ th { outline: 0.5px solid #ddd; padding: 5px; text-align: center; font-weight: n
 thead tr:first-child th { border-bottom: none; }
 thead tr:nth-child(2) th { border-top: none; }
 </style>
+--> 
 
 <table>
 <thead>
